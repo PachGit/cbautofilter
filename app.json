@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/TG-V4MP1R3/Alexa-V2",
-    "repository": "https://github.com/TG-V4MP1R3/Alexa-V2",
+    "website": "https://github.com/PachGit/cbautofilter",
+    "repository": "https://github.com/PachGit/cbautofilter",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
