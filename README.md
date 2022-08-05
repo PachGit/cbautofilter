@@ -53,7 +53,7 @@
 ## 🔗Deploy
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/cinemavillaz/Alexa-V2">
+<a href="https://heroku.com/deploy?template=https://github.com/PachGit/cbautofilter">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -85,14 +85,6 @@
 • /channel - to get list of total connected channels
 • /broadcast - to broadcast a message to Alexa users
 ```
-
-## Developers & Contributors👨‍💻
-
- [![TG-V4MP1R3](https://github.com/TG-V4MP1R3.png?size=100)](https://github.com/TG-V4MP1R3) |
-----|
-[TG-V4MP1R3](https://t.me/KP51107)  | 
-Author: Developer, Base, Bug Fixes, Commits, Modules | 
-
 
 ##
 
