@@ -39,8 +39,8 @@ async def start(client, message):
             InlineKeyboardButton('📀 ᴄɪɴᴇᴍᴀ ʙᴇᴀᴄᴏɴ 📀', url='https://t.me/Cinema_Beacon_Group'),
             InlineKeyboardButton('📽 ᴄɪɴᴇᴍᴀ ᴄᴏᴍᴘᴀɴʏ 📽', url='https://t.me/Cinema_Company_Malayalam')
             ],[      
-            InlineKeyboardButton('📽 ʜᴇʟᴘ 📽', callback_data='help'),
-            InlineKeyboardButton('📽 ᴀʙᴏᴜᴛ 📽', callback_data='about')
+            InlineKeyboardButton('🤼‍♂ ʜᴇʟᴘ 🤼‍♂', callback_data='help'),
+            InlineKeyboardButton('🗒 ᴀʙᴏᴜᴛ 🗒', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
